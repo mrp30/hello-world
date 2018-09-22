@@ -1,2 +1,4 @@
 # hello-world
-Hello World
+Hello Everyone 
+
+Just learning how to code 
